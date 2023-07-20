@@ -1,2 +1,1 @@
-# ex-variaveis
- 
+# Exercícios aula "variaveis". 
